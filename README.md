@@ -2,7 +2,7 @@
 
 Uma aplicação web para gerenciar uma biblioteca de jogos
 
-| :placard: Cybergames |     |
+| :placard: Vitrine.dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Cybergames**
 | :label: Tecnologias | python, flask, peewee, html, mysql
