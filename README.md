@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# Cybergame
 
-Rápida descrição do objetivo de fazer esse projeto
+Uma aplicação web para gerenciar uma biblioteca de jogos
 
-| :placard: Vitrine.Dev |     |
+| :placard: Cybergames |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Cybergames**
+| :label: Tecnologias | python, flask, peewee, html, mysql
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Nessa aplicação, o usuário pode vizualizar uma lista de jogos e adicionar um jogo a lista, mas para isso o usuário deve estar cadastrado na aplicação. Além disso, o usuário poderá deletar e editar os jogos da lista.
