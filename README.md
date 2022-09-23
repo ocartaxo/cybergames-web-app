@@ -1,4 +1,4 @@
-# Cybergame
+# Cybergames
 
 Uma aplicação web para gerenciar uma biblioteca de jogos
 
