@@ -9,7 +9,7 @@ Uma aplicação web para gerenciar uma biblioteca de jogos
 | :rocket: URL         | https://url-deploy.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://camo.githubusercontent.com/#vitrinedev)
 
 ## Detalhes do projeto
 
