@@ -1,0 +1,12 @@
+DATABASE:
+  database: 'cybermanga'  # db name
+  host: 'localhost'
+  port: 3306
+  user: 'root'
+  password: '' # INSERT YOUR DB PASSWORD HERE
+
+
+FLASK:
+  DEBUG: True
+  SECRET_KEY: '1234'
+  UPLOAD_PATH: '../uploads'
