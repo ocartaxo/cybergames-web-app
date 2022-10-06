@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewimport" content="width=device-width, initial-scale=1">
+        <title>Cadastro | Cybergames</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+    </head>
+    <body>
+        <h1>Faça seu cadastro</h1>
+        <form method="POST" action="{{ url_for('registrar_usuario') }}">
+            {{ form.csrf_token() }}
+            <fieldset>
+                <div class="form-group">
+                    {{ form.nome.label(class="form-label") }}
+                    {{ form.nome(class="form-control") }}
+                </div>
+                <div class="form-group">
+                    {{ form.nickname.label(class="form-label") }}
+                    {{ form.nickname(class="form-control") }}
+                </div>
+                <div class="form-group">
+                    {{ form.senha.label(class="form-label") }}
+                    {{ form.senha(class="form-control") }}
+                </div>
+                <div class="buttons">
+                    {{ form.criar(class="btn btn-primary") }}
+                    <a class="btn btn-danger" href="{{ url_for('index') }}">Voltar</a>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+</html>

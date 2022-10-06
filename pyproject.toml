@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "games-lib"
+version = "0.1.0"
+description = ""
+authors = ["Otávio Cartaxo <oacartaxo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^2.2.2"
+peewee = "^3.15.2"
+mysql-connector-python = "^8.0.30"
+PyYAML = "^6.0"
+PyMySQL = "^1.0.2"
+WTForms = "^3.0.1"
+wtf-peewee = "^3.0.4"
+SQLAlchemy = "^1.4.41"
+Flask-WTF = "^1.0.1"
+Flask-Bcrypt = "^1.0.1"
+Werkzeug = "^2.2.2"
+cryptography = "^38.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
