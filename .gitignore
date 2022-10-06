@@ -1,2 +1,3 @@
 config.yml
-/uploads
+uploads/**
+!uploads/capa_padrao.jpg
