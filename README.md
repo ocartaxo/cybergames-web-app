@@ -9,7 +9,8 @@ Uma aplicação web para gerenciar uma biblioteca de jogos
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/23222759/195202429-2f53d667-c7db-4ee7-a618-26bfaeaa4f30.png#vitrinedev)
+![](https://user-images.githubusercontent.com/23222759/195230692-cf7f86ee-8efb-4bdd-8412-911a8b287e85.png#vitrinedev)
+
 
 ## Descrição
 
