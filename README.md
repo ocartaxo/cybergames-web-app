@@ -9,7 +9,7 @@ Uma aplicação web para gerenciar uma biblioteca de jogos
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![cybergames_logo](https://user-images.githubusercontent.com/23222759/195202429-2f53d667-c7db-4ee7-a618-26bfaeaa4f30.png#vitrinedev)
+![](https://user-images.githubusercontent.com/23222759/195202429-2f53d667-c7db-4ee7-a618-26bfaeaa4f30.png#vitrinedev)
 
 ## Descrição
 
