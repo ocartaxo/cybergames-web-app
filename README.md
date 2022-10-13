@@ -8,9 +8,7 @@ Uma aplicação web para gerenciar uma biblioteca de jogos
 | :label: Tecnologias | python, flask, peewee, html, mysql
 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/23222759/195230692-cf7f86ee-8efb-4bdd-8412-911a8b287e85.png#vitrinedev)
-
+![](https://user-images.githubusercontent.com/23222759/195469741-08d65460-0acc-4808-9a19-769538326c27.png#vitrinedev)
 
 ## Descrição
 
